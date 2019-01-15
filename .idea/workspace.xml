@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6a1d265-2518-45ac-9e0d-c6c468d06ebb" name="Default" comment="SpringCloud项目">
+    <list default="true" id="b6a1d265-2518-45ac-9e0d-c6c468d06ebb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/cfgbeans/ConfigBean.java" afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/cfgbeans/ConfigBean.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,18 +38,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ConfigBean.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/cfgbeans/ConfigBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -582,7 +570,7 @@
       <workItem from="1546417181525" duration="1976000" />
       <workItem from="1546479825432" duration="616000" />
       <workItem from="1546931707162" duration="665000" />
-      <workItem from="1547540395830" duration="1140000" />
+      <workItem from="1547540395830" duration="1498000" />
     </task>
     <task id="LOCAL-00001" summary="SpringCloud项目">
       <created>1544084030961</created>
@@ -591,11 +579,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544084030961</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="thried commit">
+      <created>1547541701470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547541701470</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84923000" />
+    <option name="totallyTimeSpent" value="85281000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -684,7 +679,8 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="SpringCloud项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpringCloud项目" />
+    <MESSAGE value="thried commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="thried commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
