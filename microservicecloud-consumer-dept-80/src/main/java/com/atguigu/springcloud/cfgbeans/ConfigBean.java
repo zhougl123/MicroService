@@ -19,6 +19,7 @@ public class ConfigBean {
 
     @Bean
     public IRule myIRule(){
+        //jkjkjkjkjj
         //测试git到githup远程库的提交//
         //return new RoundRobinRule();//重新配置负载均衡算法
         //return new RandomRule();//随机负载均衡算法
